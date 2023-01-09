@@ -6,13 +6,14 @@
     <description>Recent content on LITTLE DATA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <copyright>© LITTLE DATA</copyright><atom:link href="https://little-data.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© LITTLE DATA</copyright>
+    <lastBuildDate>Mon, 09 Jan 2023 18:46:27 +0800</lastBuildDate><atom:link href="https://little-data.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>第一篇测试</title>
-      <link>https://little-data.github.io/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%B5%8B%E8%AF%95/</link>
+      <link>https://little-data.github.io/posts/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%B5%8B%E8%AF%95/</link>
       <pubDate>Mon, 09 Jan 2023 18:46:27 +0800</pubDate>
       
-      <guid>https://little-data.github.io/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%B5%8B%E8%AF%95/</guid>
+      <guid>https://little-data.github.io/posts/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%B5%8B%E8%AF%95/</guid>
       <description>第一篇测试文章-标题 01 01 01 02 02 ？ ？ 02 </description>
     </item>
     
