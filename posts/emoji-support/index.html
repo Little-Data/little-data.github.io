@@ -396,15 +396,22 @@ The <a href="https://gohugo.io/functions/emojify/"><code>emojify</code></a> func
       <div id="comments" class="article-card">
         
 
-  <script src="https://beaudar.lipk.org/client.js"
-    repo="Little-Data/little-data.github.io"
-    branch="main"
-    issue-term="pathname"
-    label="评论"
-    theme="github-light"
-    crossorigin="anonymous"
-    async>
+  <div id="container"></div>
+<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+<script>
+  var gitment = new Gitment({
+  id: 'location.href', // 可选。默认为 location.href
+  owner: 'little-data',
+  repo: 'little-data.github.io',
+  oauth: {
+  client_id: '57fa282d94233fc95366',
+  client_secret: 'e3347c1f4b0450aebb73dce624f77ebb98fb363a',
+  },
+  })
+  gitment.render('container')
 </script>
+ 
 
 
 
