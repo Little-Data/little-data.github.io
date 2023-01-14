@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Little-data</title>
-    <link>https://little-data.github.io/posts/</link>
+    <link>https://little-data.netlify.app/posts/</link>
     <description>Recent content in Posts on Little-data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 14 Jan 2023 16:32:01 +0800</lastBuildDate><atom:link href="https://little-data.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Jan 2023 16:32:01 +0800</lastBuildDate><atom:link href="https://little-data.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>(beta)IKUN小游戏by风铃羊FLY</title>
-      <link>https://little-data.github.io/posts/ikun/</link>
+      <link>https://little-data.netlify.app/posts/ikun/</link>
       <pubDate>Sat, 14 Jan 2023 16:32:01 +0800</pubDate>
       
-      <guid>https://little-data.github.io/posts/ikun/</guid>
+      <guid>https://little-data.netlify.app/posts/ikun/</guid>
       <description>看视频吧，无法观看？原视频链接 在线玩，可能由于Github问题无法访问，继续前往</description>
     </item>
     
