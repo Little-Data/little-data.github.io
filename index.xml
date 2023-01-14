@@ -31,7 +31,7 @@
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://little-data.netlify.app/about/</guid>
-      <description>只是一个瞎搞的网页罢了 联系方式 到b站看置顶动态 Github 主页 网站更新记录 2023.01.14：不打算支持评论 2023.01.11：支持图片，评论，分享 2023.01.8：初步成型</description>
+      <description>只是一个瞎搞的网页罢了 联系方式 到b站看置顶动态 Github 主页 网站更新记录 2023.01.14：不打算支持评论，部署到Netlify 2023.01.11：支持图片，评论，分享 2023.01.8：初步成型</description>
     </item>
     
   </channel>
