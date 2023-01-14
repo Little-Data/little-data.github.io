@@ -6,53 +6,14 @@
     <description>Recent content on Little-data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 09 Jan 2023 18:46:27 +0800</lastBuildDate><atom:link href="https://little-data.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Jan 2023 16:32:01 +0800</lastBuildDate><atom:link href="https://little-data.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>第一篇测试</title>
-      <link>https://little-data.github.io/posts/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%B5%8B%E8%AF%95/</link>
-      <pubDate>Mon, 09 Jan 2023 18:46:27 +0800</pubDate>
+      <title>(beta)IKUN小游戏by风铃羊FLY</title>
+      <link>https://little-data.github.io/posts/ikun/</link>
+      <pubDate>Sat, 14 Jan 2023 16:32:01 +0800</pubDate>
       
-      <guid>https://little-data.github.io/posts/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%B5%8B%E8%AF%95/</guid>
-      <description>第一篇测试文章-标题 01 01 01 02 02 ？ ？ 02</description>
-    </item>
-    
-    <item>
-      <title>Syntax Highlighting</title>
-      <link>https://little-data.github.io/posts/highlight-syntax/</link>
-      <pubDate>Thu, 30 Apr 2020 16:01:23 +0800</pubDate>
-      
-      <guid>https://little-data.github.io/posts/highlight-syntax/</guid>
-      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-js&#34; data-lang=&#34;js&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kd&#34;&gt;function&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;helloWorld&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;()&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;nx&#34;&gt;alert&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Hello, World!&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
-    </item>
-    
-    <item>
-      <title>Markdown Syntax</title>
-      <link>https://little-data.github.io/posts/markdown-syntax/</link>
-      <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://little-data.github.io/posts/markdown-syntax/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>CJK Unicode Test</title>
-      <link>https://little-data.github.io/posts/cjk-test/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0800</pubDate>
-      
-      <guid>https://little-data.github.io/posts/cjk-test/</guid>
-      <description>&lt;p&gt;The following is part of the CJK text, this page is for test use only.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Placeholder Content</title>
-      <link>https://little-data.github.io/posts/placeholder-content/</link>
-      <pubDate>Tue, 17 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://little-data.github.io/posts/placeholder-content/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+      <guid>https://little-data.github.io/posts/ikun/</guid>
+      <description>看视频吧，无法观看？原视频链接 在线玩，可能由于Github问题无法访问，继续前往</description>
     </item>
     
     <item>
@@ -70,28 +31,7 @@
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://little-data.github.io/about/</guid>
-      <description>待更新 网站更新记录 2023.01.11：支持图片，评论，分享 2023.01.8：初步成型</description>
-    </item>
-    
-    <item>
-      <title>Emojis Support</title>
-      <link>https://little-data.github.io/posts/emoji-support/</link>
-      <pubDate>Thu, 28 Mar 2019 12:24:47 +0100</pubDate>
-      
-      <guid>https://little-data.github.io/posts/emoji-support/</guid>
-      <description>Emoji can be enabled in a Hugo project in a number of ways. The emojify function can be called directly in templates or Inline Shortcodes.
-To enable emoji globally, set enableEmoji to true in your site’s configuration and then you can type emoji shorthand codes directly in content files; e.g.
-🙈 🙈 🙉 🙉 🙊 🙊 The Emoji cheat sheet is a useful reference for emoji shorthand codes.
-N.B. The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform. To style the emoji you can either use a third party emoji font or a font stack; e.</description>
-    </item>
-    
-    <item>
-      <title>Math Typesetting</title>
-      <link>https://little-data.github.io/posts/math-typesetting/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://little-data.github.io/posts/math-typesetting/</guid>
-      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
+      <description>只是一个瞎搞的网页罢了 联系方式 到b站看置顶动态 Github 主页 网站更新记录 2023.01.14：不打算支持评论 2023.01.11：支持图片，评论，分享 2023.01.8：初步成型</description>
     </item>
     
   </channel>

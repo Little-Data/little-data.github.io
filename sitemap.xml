@@ -3,67 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://little-data.github.io/</loc>
-    <lastmod>2023-01-09T18:46:27+08:00</lastmod>
+    <lastmod>2023-01-14T16:32:01+08:00</lastmod>
+  </url><url>
+    <loc>https://little-data.github.io/posts/ikun/</loc>
+    <lastmod>2023-01-14T16:32:01+08:00</lastmod>
+  </url><url>
+    <loc>https://little-data.github.io/tags/beta/</loc>
+    <lastmod>2023-01-14T16:32:01+08:00</lastmod>
+  </url><url>
+    <loc>https://little-data.github.io/tags/ikun/</loc>
+    <lastmod>2023-01-14T16:32:01+08:00</lastmod>
   </url><url>
     <loc>https://little-data.github.io/posts/</loc>
-    <lastmod>2023-01-09T18:46:27+08:00</lastmod>
-  </url><url>
-    <loc>https://little-data.github.io/posts/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2023-01-09T18:46:27+08:00</lastmod>
-  </url><url>
-    <loc>https://little-data.github.io/categories/</loc>
-    <lastmod>2020-04-30T16:01:23+08:00</lastmod>
-  </url><url>
-    <loc>https://little-data.github.io/tags/preview/</loc>
-    <lastmod>2020-04-30T16:01:23+08:00</lastmod>
-  </url><url>
-    <loc>https://little-data.github.io/tags/syntax-highlighting/</loc>
-    <lastmod>2020-04-30T16:01:23+08:00</lastmod>
-  </url><url>
-    <loc>https://little-data.github.io/categories/syntax-highlighting/</loc>
-    <lastmod>2020-04-30T16:01:23+08:00</lastmod>
-  </url><url>
-    <loc>https://little-data.github.io/posts/highlight-syntax/</loc>
-    <lastmod>2020-04-30T16:01:23+08:00</lastmod>
-  </url><url>
-    <loc>https://little-data.github.io/tags/tag-5/</loc>
-    <lastmod>2020-04-30T16:01:23+08:00</lastmod>
+    <lastmod>2023-01-14T16:32:01+08:00</lastmod>
   </url><url>
     <loc>https://little-data.github.io/tags/</loc>
-    <lastmod>2020-04-30T16:01:23+08:00</lastmod>
+    <lastmod>2023-01-14T16:32:01+08:00</lastmod>
   </url><url>
-    <loc>https://little-data.github.io/tags/css/</loc>
-    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://little-data.github.io/tags/html/</loc>
-    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://little-data.github.io/tags/markdown/</loc>
-    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://little-data.github.io/posts/markdown-syntax/</loc>
-    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://little-data.github.io/tags/themes/</loc>
-    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://little-data.github.io/tags/cjk/</loc>
-    <lastmod>2020-01-01T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://little-data.github.io/posts/cjk-test/</loc>
-    <lastmod>2020-01-01T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://little-data.github.io/tags/test/</loc>
-    <lastmod>2020-01-01T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://little-data.github.io/tags/images/</loc>
-    <lastmod>2019-12-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://little-data.github.io/posts/placeholder-content/</loc>
-    <lastmod>2019-12-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://little-data.github.io/tags/text/</loc>
-    <lastmod>2019-12-17T00:00:00+00:00</lastmod>
+    <loc>https://little-data.github.io/tags/%E5%B0%8F%E9%BB%91%E5%AD%90/</loc>
+    <lastmod>2023-01-14T16:32:01+08:00</lastmod>
   </url><url>
     <loc>https://little-data.github.io/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
@@ -71,18 +29,8 @@
     <loc>https://little-data.github.io/about/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://little-data.github.io/tags/emojis/</loc>
-    <lastmod>2019-03-28T12:24:47+01:00</lastmod>
-  </url><url>
-    <loc>https://little-data.github.io/posts/emoji-support/</loc>
-    <lastmod>2019-03-28T12:24:47+01:00</lastmod>
-  </url><url>
-    <loc>https://little-data.github.io/tags/hugo/</loc>
-    <lastmod>2019-03-28T12:24:47+01:00</lastmod>
-  </url><url>
-    <loc>https://little-data.github.io/posts/math-typesetting/</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://little-data.github.io/archives/</loc>
+  </url><url>
+    <loc>https://little-data.github.io/categories/</loc>
   </url>
 </urlset>
