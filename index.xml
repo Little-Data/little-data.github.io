@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Little-data</title>
-    <link>https://little-data.netlify.app/</link>
+    <link>https://blog.little-data.top/</link>
     <description>Recent content on Little-data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 14 Jan 2023 16:32:01 +0800</lastBuildDate><atom:link href="https://little-data.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Jan 2023 16:32:01 +0800</lastBuildDate><atom:link href="https://blog.little-data.top/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>(beta)IKUN小游戏by风羚羊FLY</title>
-      <link>https://little-data.netlify.app/posts/ikun/</link>
+      <link>https://blog.little-data.top/posts/ikun/</link>
       <pubDate>Sat, 14 Jan 2023 16:32:01 +0800</pubDate>
       
-      <guid>https://little-data.netlify.app/posts/ikun/</guid>
+      <guid>https://blog.little-data.top/posts/ikun/</guid>
       <description>看视频吧，无法观看？原视频链接 在线玩，可能由于Github问题无法访问，继续前往</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://little-data.netlify.app/archives/</link>
+      <link>https://blog.little-data.top/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://little-data.netlify.app/archives/</guid>
+      <guid>https://blog.little-data.top/archives/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://little-data.netlify.app/about/</link>
+      <link>https://blog.little-data.top/about/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://little-data.netlify.app/about/</guid>
+      <guid>https://blog.little-data.top/about/</guid>
       <description>Hi!近来可好？ 此网站为个人爱好所创建的，并不花费任何费用。因此我也不确定能存在多久，按理说托管在Github上应该是永久了。网站简陋，没钱买域名和服务器，凑合着用吧。欢迎入群一起讨论！在b站置顶动态</description>
     </item>
     

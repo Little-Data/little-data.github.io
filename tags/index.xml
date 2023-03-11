@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Little-data</title>
-    <link>https://little-data.netlify.app/tags/</link>
+    <link>https://blog.little-data.top/tags/</link>
     <description>Recent content in Tags on Little-data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 14 Jan 2023 16:32:01 +0800</lastBuildDate><atom:link href="https://little-data.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Jan 2023 16:32:01 +0800</lastBuildDate><atom:link href="https://blog.little-data.top/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>beta</title>
-      <link>https://little-data.netlify.app/tags/beta/</link>
+      <link>https://blog.little-data.top/tags/beta/</link>
       <pubDate>Sat, 14 Jan 2023 16:32:01 +0800</pubDate>
       
-      <guid>https://little-data.netlify.app/tags/beta/</guid>
+      <guid>https://blog.little-data.top/tags/beta/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IKUN</title>
-      <link>https://little-data.netlify.app/tags/ikun/</link>
+      <link>https://blog.little-data.top/tags/ikun/</link>
       <pubDate>Sat, 14 Jan 2023 16:32:01 +0800</pubDate>
       
-      <guid>https://little-data.netlify.app/tags/ikun/</guid>
+      <guid>https://blog.little-data.top/tags/ikun/</guid>
       <description></description>
     </item>
     
     <item>
       <title>小黑子</title>
-      <link>https://little-data.netlify.app/tags/%E5%B0%8F%E9%BB%91%E5%AD%90/</link>
+      <link>https://blog.little-data.top/tags/%E5%B0%8F%E9%BB%91%E5%AD%90/</link>
       <pubDate>Sat, 14 Jan 2023 16:32:01 +0800</pubDate>
       
-      <guid>https://little-data.netlify.app/tags/%E5%B0%8F%E9%BB%91%E5%AD%90/</guid>
+      <guid>https://blog.little-data.top/tags/%E5%B0%8F%E9%BB%91%E5%AD%90/</guid>
       <description></description>
     </item>
     
