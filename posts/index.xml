@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Little-data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 08 Jun 2023 11:46:30 +0800</lastBuildDate><atom:link href="https://blog.little-data.top/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Jul 2023 23:12:17 +0800</lastBuildDate><atom:link href="https://blog.little-data.top/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>较为重大网站更新</title>
+      <link>https://blog.little-data.top/posts/%E8%BE%83%E4%B8%BA%E9%87%8D%E5%A4%A7%E7%BD%91%E7%AB%99%E6%9B%B4%E6%96%B0/</link>
+      <pubDate>Sat, 15 Jul 2023 23:12:17 +0800</pubDate>
+      
+      <guid>https://blog.little-data.top/posts/%E8%BE%83%E4%B8%BA%E9%87%8D%E5%A4%A7%E7%BD%91%E7%AB%99%E6%9B%B4%E6%96%B0/</guid>
+      <description>个人网盘 之前由于微软抽风，账户被消灭。这次干脆更换了网站系统，支持了多网盘挂载。 网盘 备忘录/笔记 站点 博客 评论更换，RSS源修复。托管服务器更换。 网站集合</description>
+    </item>
+    
     <item>
       <title>网易云博客的音频转换失败</title>
       <link>https://blog.little-data.top/posts/%E7%BD%91%E6%98%93%E4%BA%91%E5%8D%9A%E5%AE%A2%E7%9A%84%E9%9F%B3%E9%A2%91%E8%BD%AC%E6%8D%A2%E5%A4%B1%E8%B4%A5/</link>
