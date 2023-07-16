@@ -1,0 +1,4 @@
+baseURL = 'https://blog.little-data.top/'
+languageCode = 'zh-cn'
+title = 'Little-data'
+theme = 'fluency'
