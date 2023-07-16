@@ -11,8 +11,8 @@ hasCJKLanguage= true
 enableEmoji= true
 
 [ignoreErrors]
-  - error-remote-getjson
-  - error-missing-instagram-accesstoken
+  = error-remote-getjson
+  = error-missing-instagram-accesstoken
 
 # googleAnalytics= UA-XXXXXXXXX-X
 # disqusShortName= hugo
@@ -21,8 +21,8 @@ enableEmoji= true
   disableSVG= true
 
 [markup]
-  goldmark
-    renderer
+  [goldmark]
+    [renderer]
       unsafe= true
 
 [taxonomies]
@@ -39,7 +39,7 @@ enableEmoji= true
 
   # main section will be listed at index page
 [mainSections]
-    - posts
+    = posts
 
   # set number of post of specify type of content
   [pageSize]
@@ -59,9 +59,9 @@ enableEmoji= true
 
   # comment
   disableComment= false
-  disableCommentByType
-    - page
-    - postsdis
+  [disableCommentByType]
+    = page
+    = postsdis
   [thirdPartyComment]
 
     <div id="tcomment"></div>
@@ -84,36 +84,36 @@ enableEmoji= true
 
 [menu]
   [main]
-    - identifier= posts
+     identifier= posts
       name= 文章
       url= posts/
       weight= 1
-    - identifier= tags
+     identifier= tags
       name= 标签
       url= tags/
       weight= 2
-    - identifier= archives
+     identifier= archives
       name= 存档
       url= archives/
       weight= 3
-    - identifier= about
+     identifier= about
       name= 关于
       url= about/
       weight= 4
-    - identifier= website
+     identifier= website
       name= 留言板
       url= lyb.html
       weight= 5
-    - identifier= webc
+     identifier= webc
       name= 网站集合
       url= https://mos.little-data.top/m/6
       weight= 6
 
   [footer]
-    - identifier= github
+     identifier= github
       url= "https://github.com/little-data"
       name= Github
-    - identifier= bilibili
+     identifier= bilibili
       url= "https://space.bilibili.com/357695126"
       name= Bilibili主页
 
