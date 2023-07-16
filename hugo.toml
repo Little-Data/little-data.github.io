@@ -10,45 +10,45 @@ pygmentsCodefences= true
 hasCJKLanguage= true
 enableEmoji= true
 
-ignoreErrors=
+ignoreErrors
   - error-remote-getjson
   - error-missing-instagram-accesstoken
 
 # googleAnalytics= UA-XXXXXXXXX-X
 # disqusShortName= hugo
 
-minify=
+minify
   disableSVG= true
 
-markup=
-  goldmark=
-    renderer=
+markup
+  goldmark
+    renderer
       unsafe= true
 
-taxonomies=
+taxonomies
   category= categories
   tag= tags
 
 # permalinks=
 #  posts= :section/:slug
 
-params=
+params
   author= Little-data
   description= "Music the best"
   # copyright: "© 2021 &nbsp;<a href='https://github.com/wayjam/hugo-theme-fluency'>Hugo Theme Fluency</a>"
 
   # main section will be listed at index page
-  mainSections=
+  mainSections
     - posts
 
   # set number of post of specify type of content
-  pageSize=
+  pageSize
     index= 5
     list= 10
     archives= 20
 
   # extra info below post
-  extraMeta= |
+  extraMeta |
      <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="/img/by-nc-sa-88x31.png" /></a>本文采用<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。
   #   <p>another line</p>
 
@@ -59,10 +59,10 @@ params=
 
   # comment
   disableComment= false
-  disableCommentByType=
+  disableCommentByType
     - page
     - postsdis
-  thirdPartyComment= |
+  thirdPartyComment |
 
     <div id="tcomment"></div>
     <script src="https://cdn.staticfile.org/twikoo/1.6.16/twikoo.all.min.js"></script>
@@ -82,8 +82,8 @@ params=
   # customScript: |
   #   <script>console.log('hello world')</script>
 
-menu=
-  main=
+menu
+  main
     - identifier= posts
       name= 文章
       url= posts/
@@ -109,7 +109,7 @@ menu=
       url= https://mos.little-data.top/m/6
       weight= 6
 
-  footer=
+  footer
     - identifier= github
       url= "https://github.com/little-data"
       name= Github
@@ -118,25 +118,25 @@ menu=
       name= Bilibili主页
 
 # Privacy configurations: https://gohugo.io/about/hugo-and-gdpr/
-privacy=
-  disqus=
+privacy
+  disqus
     disable= true
-  googleAnalytics=
+  googleAnalytics
     anonymizeIP= false
     disable= true
     respectDoNotTrack= false
     useSessionStorage= false
-  instagram=
+  instagram
     disable= true
     simple= false
-  twitter=
-    disable= true
-    enableDNT= false
-    simple= false
-  vimeo=
+  twitter
     disable= true
     enableDNT= false
     simple= false
-  youtube=
+  vimeo
+    disable= true
+    enableDNT= false
+    simple= false
+  youtube
     disable= true
     privacyEnhanced= false
