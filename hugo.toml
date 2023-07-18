@@ -28,17 +28,15 @@ tag = "tags"
 author = "Little-data"
 description = "Music the best"
 mainSections = [ "posts" ]
-extraMeta = [
-"<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="/img/by-nc-sa-88x31.png" /></a>本文采用<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。"
-]
+extraMeta = ""<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="/img/by-nc-sa-88x31.png" /></a>本文采用<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。""
+
 disableSocialShare = true
 disableIndexSummary = false
 disableAnchorHeading = false
 disableBreadcrumb = false
 disableComment = false
 disableCommentByType = [ "page", "postsdis" ]
-thirdPartyComment = [
-"<div id="tcomment"></div>
+thirdPartyComment = ""<div id="tcomment"></div>
 <script src="https://cdn.staticfile.org/twikoo/1.6.16/twikoo.all.min.js"></script>
 <script>
  twikoo.init({
@@ -48,8 +46,8 @@ el: '#tcomment', // 容器元素
  // path: location.pathname, // 用于区分不同文章的自定义 js 路径，如果您的文章路径不是 location.pathname，需传此参数
  // lang: 'zh-CN', // 用于手动设定评论区语言，支持的语言列表 https://github.com/imaegoo/twikoo/blob/main/src/client/utils/i18n/index.js
  })
-</script>"
-]
+</script>""
+
 mathRender = true
 
   [params.pageSize]
