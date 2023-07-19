@@ -98,7 +98,7 @@ menu:
       weight: 4
     - identifier: website
       name: 留言板
-      url: lyb.html
+      url: /lyb
       weight: 5
     - identifier: webc
       name: 网站集合
